@@ -1,0 +1,7 @@
+The converted results are:
+AB+C-
+AB*CD/+
+
+ABC+*D/
+
+ABCD/+*
